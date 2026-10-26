@@ -19,3 +19,7 @@ Histórico do código
 O projeto usa Git. Para ver o histórico, rode na pasta do p
 rojeto:
 git log --oneline
+
+
+Código-fonte e versões
+https://github.com/spinola749-ai/techbairro.git
