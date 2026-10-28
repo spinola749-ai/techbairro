@@ -23,3 +23,5 @@ git log --oneline
 
 Código-fonte e versões
 https://github.com/spinola749-ai/techbairro.git
+
+
